@@ -13,3 +13,5 @@ It is an elaborate analysis of the behaviour of this stock in the US Market whic
 - Lowest Price (Prevision): Predicted lowest value based on above calculated parameters<br>
                              Calculation:- Lowest Price - (2* Standard Deviation)
 
+### Resources
+Source of Dataset: https://www.investing.com/indices/us-30-futures-historical-data?cid=1175152
